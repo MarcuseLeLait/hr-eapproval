@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="HR eApproval - Stellenbesetzung">00c782c0c38e5dd0d07d7fb4e401311c</sc_cat_item>
+        <sc_catalog display_value="Human Resources Catalog">7b0370019f22120047a2d126c42e7075</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-15 12:00:48</sys_created_on>
+        <sys_id>6f894e84c38e5dd0d07d7fb4e4013163</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Human Resources Catalog.HR eApproval - Stellenbesetzung</sys_name>
+        <sys_package display_value="HR eApproval" source="x_snc_hr_eapproval">9c2eec00c3025dd0d07d7fb4e401311a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR eApproval">9c2eec00c3025dd0d07d7fb4e401311a</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_6f894e84c38e5dd0d07d7fb4e4013163</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-15 12:00:48</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="HR eApproval">9c2eec00c3025dd0d07d7fb4e401311a</application>
+        <file_path/>
+        <instance_id>e63ab52fdb0e41504d2bac44d49619ff</instance_id>
+        <instance_name>mllsddemo</instance_name>
+        <name>sc_cat_item_catalog_6f894e84c38e5dd0d07d7fb4e4013163</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="HR eApproval - Stellenbesetzung">00c782c0c38e5dd0d07d7fb4e401311c</sc_cat_item><sc_catalog display_value="Human Resources Catalog">7b0370019f22120047a2d126c42e7075</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-15 12:00:48</sys_created_on><sys_id>6f894e84c38e5dd0d07d7fb4e4013163</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Human Resources Catalog.HR eApproval - Stellenbesetzung</sys_name><sys_package display_value="HR eApproval" source="x_snc_hr_eapproval">9c2eec00c3025dd0d07d7fb4e401311a</sys_package><sys_policy/><sys_scope display_value="HR eApproval">9c2eec00c3025dd0d07d7fb4e401311a</sys_scope><sys_update_name>sc_cat_item_catalog_6f894e84c38e5dd0d07d7fb4e4013163</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-15 12:00:48</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1338492628</payload_hash>
+        <record_name>Human Resources Catalog.HR eApproval - Stellenbesetzung</record_name>
+        <reverted_from/>
+        <source>dc2eec00c3025dd0d07d7fb4e401311c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-15 12:00:48</sys_created_on>
+        <sys_id>ef894e84c38e5dd0d07d7fb4e4013166</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1834105e2780000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-15 12:00:48</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>27894e840e8e5dd09c20c229a12f2d66</update_guid>
+        <update_guid_history>27894e840e8e5dd09c20c229a12f2d66:-1338492628</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Human Resources Catalog.HR eApproval - Stellenbesetzung">aa7a8a08c38e5dd0d07d7fb4e401312a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-15 12:04:49</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>be7a79c21e0348eaa26ad73deffabc19</sys_id>
+        <sys_metadata>6f894e84c38e5dd0d07d7fb4e4013163</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Human Resources Catalog.HR eApproval - Stellenbesetzung</sys_name>
+        <sys_package display_value="HR eApproval" source="x_snc_hr_eapproval">9c2eec00c3025dd0d07d7fb4e401311a</sys_package>
+        <sys_parent display_value="HR eApproval - Stellenbesetzung">00c782c0c38e5dd0d07d7fb4e401311c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="HR eApproval">9c2eec00c3025dd0d07d7fb4e401311a</sys_scope>
+        <sys_scope_delete display_value="">107889c0f2a64fb6b30462f2ee8fc7c4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_6f894e84c38e5dd0d07d7fb4e4013163</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_6f894e84c38e5dd0d07d7fb4e4013163">ef894e84c38e5dd0d07d7fb4e4013166</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-15 12:04:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

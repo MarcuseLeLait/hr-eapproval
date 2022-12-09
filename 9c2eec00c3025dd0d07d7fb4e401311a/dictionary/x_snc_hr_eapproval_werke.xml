@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Werke" max_length="40" name="x_snc_hr_eapproval_werke" sizeclass="2" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Bezeichnung" max_length="40" name="bezeichnung" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Werk Nr." max_length="40" name="werk_nr" type="string"/>
+    </element>
+</database>

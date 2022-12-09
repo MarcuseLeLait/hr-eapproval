@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="ebbee080c3025dd0d07d7fb4e401316e" sys_domain="global" table="x_snc_hr_eapproval_hr_eapproval" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-15 12:22:15</sys_created_on>
+            <sys_id>4e7eca00c3ce5dd0d07d7fb4e4013111</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_hr_eapproval_hr_eapproval" sys_domain="global" view="Default view">ebbee080c3025dd0d07d7fb4e401316e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-15 12:22:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-15 12:22:15</sys_created_on>
+            <sys_id>467eca00c3ce5dd0d07d7fb4e4013112</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_hr_eapproval_hr_eapproval" sys_domain="global" view="Default view">ebbee080c3025dd0d07d7fb4e401316e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-15 12:22:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fuehrungsebene</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-15 12:22:15</sys_created_on>
+            <sys_id>4a7eca00c3ce5dd0d07d7fb4e4013112</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_hr_eapproval_hr_eapproval" sys_domain="global" view="Default view">ebbee080c3025dd0d07d7fb4e401316e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-15 12:22:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>kandidat</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-15 12:22:15</sys_created_on>
+            <sys_id>4e7eca00c3ce5dd0d07d7fb4e4013112</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_hr_eapproval_hr_eapproval" sys_domain="global" view="Default view">ebbee080c3025dd0d07d7fb4e401316e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-15 12:22:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>kandidat.manager</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-15 12:22:15</sys_created_on>
+            <sys_id>427eca00c3ce5dd0d07d7fb4e4013113</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_hr_eapproval_hr_eapproval" sys_domain="global" view="Default view">ebbee080c3025dd0d07d7fb4e401316e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-15 12:22:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>geschlecht</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-15 12:22:15</sys_created_on>
+            <sys_id>467eca00c3ce5dd0d07d7fb4e4013113</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_hr_eapproval_hr_eapproval" sys_domain="global" view="Default view">ebbee080c3025dd0d07d7fb4e401316e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-15 12:22:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>werk_1</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-15 12:22:15</sys_created_on>
+            <sys_id>4a7eca00c3ce5dd0d07d7fb4e4013113</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_hr_eapproval_hr_eapproval" sys_domain="global" view="Default view">ebbee080c3025dd0d07d7fb4e401316e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-15 12:22:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>aufgaben</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-15 12:22:15</sys_created_on>
+            <sys_id>4e7eca00c3ce5dd0d07d7fb4e4013113</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_hr_eapproval_hr_eapproval" sys_domain="global" view="Default view">ebbee080c3025dd0d07d7fb4e401316e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-15 12:22:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-15 12:22:15</sys_created_on>
+            <sys_id>427eca00c3ce5dd0d07d7fb4e4013114</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_hr_eapproval_hr_eapproval" sys_domain="global" view="Default view">ebbee080c3025dd0d07d7fb4e401316e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-15 12:22:15</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-15 12:22:15</sys_created_on>
+            <sys_id>467eca00c3ce5dd0d07d7fb4e4013114</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_hr_eapproval_hr_eapproval" sys_domain="global" view="Default view">ebbee080c3025dd0d07d7fb4e401316e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-15 12:22:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>nachster_approver</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-15 12:22:15</sys_created_on>
+            <sys_id>4a7eca00c3ce5dd0d07d7fb4e4013114</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_hr_eapproval_hr_eapproval" sys_domain="global" view="Default view">ebbee080c3025dd0d07d7fb4e401316e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-15 12:22:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>anzahl_stellen</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-15 12:22:15</sys_created_on>
+            <sys_id>4e7eca00c3ce5dd0d07d7fb4e4013114</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_hr_eapproval_hr_eapproval" sys_domain="global" view="Default view">ebbee080c3025dd0d07d7fb4e401316e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-15 12:22:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>antragsart</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-15 12:22:15</sys_created_on>
+            <sys_id>427eca00c3ce5dd0d07d7fb4e4013115</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_hr_eapproval_hr_eapproval" sys_domain="global" view="Default view">ebbee080c3025dd0d07d7fb4e401316e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-15 12:22:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>aktuelle_mitarbeiterkategorie</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-15 12:22:15</sys_created_on>
+            <sys_id>467eca00c3ce5dd0d07d7fb4e4013115</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_hr_eapproval_hr_eapproval" sys_domain="global" view="Default view">ebbee080c3025dd0d07d7fb4e401316e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-15 12:22:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>anfangsdatum</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-15 12:22:15</sys_created_on>
+            <sys_id>4a7eca00c3ce5dd0d07d7fb4e4013115</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_hr_eapproval_hr_eapproval" sys_domain="global" view="Default view">ebbee080c3025dd0d07d7fb4e401316e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-15 12:22:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>werk_2</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-15 12:22:15</sys_created_on>
+            <sys_id>4e7eca00c3ce5dd0d07d7fb4e4013115</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_hr_eapproval_hr_eapproval" sys_domain="global" view="Default view">ebbee080c3025dd0d07d7fb4e401316e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-15 12:22:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mindestanforderungen</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-15 12:22:15</sys_created_on>
+            <sys_id>427eca00c3ce5dd0d07d7fb4e4013116</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_hr_eapproval_hr_eapproval" sys_domain="global" view="Default view">ebbee080c3025dd0d07d7fb4e401316e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-15 12:22:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_hr_eapproval_hr_eapproval</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-15 05:24:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ebbee080c3025dd0d07d7fb4e401316e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_hr_eapproval_hr_eapproval</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="HR eApproval" source="x_snc_hr_eapproval">9c2eec00c3025dd0d07d7fb4e401311a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HR eApproval">9c2eec00c3025dd0d07d7fb4e401311a</sys_scope>
+            <sys_update_name>sys_ui_section_ebbee080c3025dd0d07d7fb4e401316e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-15 05:24:01</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

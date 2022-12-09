@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New HR eApproval</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>HR eApproval</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">837d7da787020110fd3362480cbb3592</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-15 05:23:08</sys_created_on>
+        <sys_id>6a8ea840c3025dd0d07d7fb4e40131c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HR eApproval</sys_name>
+        <sys_package display_value="HR eApproval" source="x_snc_hr_eapproval">9c2eec00c3025dd0d07d7fb4e401311a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR eApproval">9c2eec00c3025dd0d07d7fb4e401311a</sys_scope>
+        <sys_update_name>sys_wizard_answer_6a8ea840c3025dd0d07d7fb4e40131c0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-15 05:23:08</sys_updated_on>
+        <table/>
+        <target_url>x_snc_hr_eapproval_hr_eapproval.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

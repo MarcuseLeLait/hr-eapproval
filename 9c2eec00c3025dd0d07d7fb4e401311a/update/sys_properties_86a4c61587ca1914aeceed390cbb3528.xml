@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Stellenbesetzung activity formatter fields</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.ui.x_snc_hr_eapproval_hr_eapproval_activity.fields</name>
+        <read_roles/>
+        <suffix>x_snc_hr_eapproval</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-19 08:51:47</sys_created_on>
+        <sys_id>86a4c61587ca1914aeceed390cbb3528</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>glide.ui.x_snc_hr_eapproval_hr_eapproval_activity.fields</sys_name>
+        <sys_package display_value="HR eApproval" source="x_snc_hr_eapproval">9c2eec00c3025dd0d07d7fb4e401311a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR eApproval">9c2eec00c3025dd0d07d7fb4e401311a</sys_scope>
+        <sys_update_name>sys_properties_86a4c61587ca1914aeceed390cbb3528</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-19 09:04:02</sys_updated_on>
+        <type>string</type>
+        <value>assigned_to,cmdb_ci,state,impact,priority,opened_by,work_notes,comments,*Attachments*,knowledge,*Email*,comments_and_work_notes</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=86a4c61587ca1914aeceed390cbb3528"/>
+</record_update>

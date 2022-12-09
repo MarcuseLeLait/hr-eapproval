@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-15 05:40:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a1727c4883025dd026654e8def8d4926</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="HR eApproval" source="x_snc_hr_eapproval">9c2eec00c3025dd0d07d7fb4e401311a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR eApproval">9c2eec00c3025dd0d07d7fb4e401311a</sys_scope>
+        <sys_update_name>m2m_app_config_theme_a1727c4883025dd026654e8def8d4926</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-15 05:40:17</sys_updated_on>
+        <theme display_value="Starter Workspace Theme">61727c4822025dd04c008fc7ca957126</theme>
+        <ux_app_configuration display_value="HR eApproval - Stellenbesetzung Config">21727c4897025dd0f0c87f45b4557826</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

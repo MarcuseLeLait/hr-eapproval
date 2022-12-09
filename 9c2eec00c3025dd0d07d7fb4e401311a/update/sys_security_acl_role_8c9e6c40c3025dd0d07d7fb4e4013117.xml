@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-15 05:23:14</sys_created_on>
+        <sys_id>8c9e6c40c3025dd0d07d7fb4e4013117</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_hr_eapproval_hr_eapproval.x_snc_hr_eapproval.user</sys_name>
+        <sys_package display_value="HR eApproval" source="x_snc_hr_eapproval">9c2eec00c3025dd0d07d7fb4e401311a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR eApproval">9c2eec00c3025dd0d07d7fb4e401311a</sys_scope>
+        <sys_security_acl display_value="x_snc_hr_eapproval_hr_eapproval">049e6c40c3025dd0d07d7fb4e4013114</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_8c9e6c40c3025dd0d07d7fb4e4013117</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-15 05:23:14</sys_updated_on>
+        <sys_user_role display_value="x_snc_hr_eapproval.user" name="x_snc_hr_eapproval.user">582eec00c3025dd0d07d7fb4e4013149</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

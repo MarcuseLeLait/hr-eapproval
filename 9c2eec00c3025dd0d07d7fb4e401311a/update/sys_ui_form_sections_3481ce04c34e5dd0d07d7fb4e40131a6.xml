@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="3481ce04c34e5dd0d07d7fb4e40131a6" sys_domain="global" table="x_snc_hr_eapproval_hr_eapproval" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-15 11:25:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bc81ce04c34e5dd0d07d7fb4e40131a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_hr_eapproval_hr_eapproval" name="x_snc_hr_eapproval_hr_eapproval" sys_domain="global" view="Default view">3481ce04c34e5dd0d07d7fb4e40131a6</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_hr_eapproval_hr_eapproval" sys_domain="global" view="Default view">ebbee080c3025dd0d07d7fb4e401316e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-15 11:25:39</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-15 11:25:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3c81ce04c34e5dd0d07d7fb4e40131aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_hr_eapproval_hr_eapproval" name="x_snc_hr_eapproval_hr_eapproval" sys_domain="global" view="Default view">3481ce04c34e5dd0d07d7fb4e40131a6</sys_ui_form>
+            <sys_ui_section caption="Activities" display_value="Activities" name="x_snc_hr_eapproval_hr_eapproval" sys_domain="global" view="Default view">7481ce04c34e5dd0d07d7fb4e4013128</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-15 11:25:39</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_hr_eapproval_hr_eapproval</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-15 11:25:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3481ce04c34e5dd0d07d7fb4e40131a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_hr_eapproval_hr_eapproval</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="HR eApproval" source="x_snc_hr_eapproval">9c2eec00c3025dd0d07d7fb4e401311a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HR eApproval">9c2eec00c3025dd0d07d7fb4e401311a</sys_scope>
+            <sys_update_name>sys_ui_form_sections_3481ce04c34e5dd0d07d7fb4e40131a6</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-15 11:25:39</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

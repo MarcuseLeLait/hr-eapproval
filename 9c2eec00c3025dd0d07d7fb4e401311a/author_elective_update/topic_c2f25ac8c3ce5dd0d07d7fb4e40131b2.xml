@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="topic">
+    <topic action="DELETE">
+        <active>true</active>
+        <apply_to_child_topics>false</apply_to_child_topics>
+        <banner_image/>
+        <description/>
+        <icon/>
+        <name>HR eApproval Stellenbesetzung</name>
+        <order/>
+        <parent_topic display_value="HR eApproval">e292d288c3ce5dd0d07d7fb4e40131af</parent_topic>
+        <sys_class_name>topic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-15 12:42:26</sys_created_on>
+        <sys_id>c2f25ac8c3ce5dd0d07d7fb4e40131b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HR eApproval Stellenbesetzung</sys_name>
+        <sys_package display_value="HR eApproval" source="x_snc_hr_eapproval">9c2eec00c3025dd0d07d7fb4e401311a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR eApproval">9c2eec00c3025dd0d07d7fb4e401311a</sys_scope>
+        <sys_update_name>topic_c2f25ac8c3ce5dd0d07d7fb4e40131b2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-15 12:42:26</sys_updated_on>
+        <taxonomy display_value="Employee">1f5d5a40c3203010069aec4b7d40dd93</taxonomy>
+        <template display_value="emp_taxonomy_topic">4fb26c9cc3d030102ec1a589a840ddbd</template>
+        <topic_based_navigation>false</topic_based_navigation>
+        <topic_path/>
+    </topic>
+    <sys_translated_text action="DELETE" query="documentkey=c2f25ac8c3ce5dd0d07d7fb4e40131b2"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="HR eApproval">9c2eec00c3025dd0d07d7fb4e401311a</application>
+        <file_path/>
+        <instance_id>e63ab52fdb0e41504d2bac44d49619ff</instance_id>
+        <instance_name>mllsddemo</instance_name>
+        <name>topic_c2f25ac8c3ce5dd0d07d7fb4e40131b2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="topic"><topic action="INSERT_OR_UPDATE"><active>true</active><apply_to_child_topics>false</apply_to_child_topics><banner_image/><description/><icon/><name>HR eApproval Stellenbesetzung</name><order/><parent_topic display_value="HR eApproval">e292d288c3ce5dd0d07d7fb4e40131af</parent_topic><sys_class_name>topic</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-15 12:42:26</sys_created_on><sys_id>c2f25ac8c3ce5dd0d07d7fb4e40131b2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>HR eApproval Stellenbesetzung</sys_name><sys_package display_value="HR eApproval" source="x_snc_hr_eapproval">9c2eec00c3025dd0d07d7fb4e401311a</sys_package><sys_policy/><sys_scope display_value="HR eApproval">9c2eec00c3025dd0d07d7fb4e401311a</sys_scope><sys_update_name>topic_c2f25ac8c3ce5dd0d07d7fb4e40131b2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-15 12:42:26</sys_updated_on><taxonomy display_value="Employee">1f5d5a40c3203010069aec4b7d40dd93</taxonomy><template display_value="emp_taxonomy_topic">4fb26c9cc3d030102ec1a589a840ddbd</template><topic_based_navigation>false</topic_based_navigation><topic_path/></topic><sys_translated_text action="delete_multiple" query="documentkey=c2f25ac8c3ce5dd0d07d7fb4e40131b2"/></record_update>]]></payload>
+        <payload_hash>1264644775</payload_hash>
+        <record_name>HR eApproval Stellenbesetzung</record_name>
+        <reverted_from/>
+        <source>dc2eec00c3025dd0d07d7fb4e401311c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-15 12:42:26</sys_created_on>
+        <sys_id>21139ec8c3ce5dd0d07d7fb4e4013139</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183412c004a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-15 12:42:26</sys_updated_on>
+        <type>Topic</type>
+        <update_guid>29139ec86bce5dd01b9c05da42be6a38</update_guid>
+        <update_guid_history>29139ec86bce5dd01b9c05da42be6a38:1264644775</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="HR eApproval Stellenbesetzung">b5a3164cc3ce5dd0d07d7fb4e40131d8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-15 12:44:54</sys_created_on>
+        <sys_db_object display_value="Topic" name="topic">topic</sys_db_object>
+        <sys_id>0f98b4380f6140b4b58faa686f57b584</sys_id>
+        <sys_metadata>c2f25ac8c3ce5dd0d07d7fb4e40131b2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HR eApproval Stellenbesetzung</sys_name>
+        <sys_package display_value="HR eApproval" source="x_snc_hr_eapproval">9c2eec00c3025dd0d07d7fb4e401311a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="HR eApproval">9c2eec00c3025dd0d07d7fb4e401311a</sys_scope>
+        <sys_scope_delete display_value="">107889c0f2a64fb6b30462f2ee8fc7c4</sys_scope_delete>
+        <sys_update_name>topic_c2f25ac8c3ce5dd0d07d7fb4e40131b2</sys_update_name>
+        <sys_update_version display_value="topic_c2f25ac8c3ce5dd0d07d7fb4e40131b2">21139ec8c3ce5dd0d07d7fb4e4013139</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-15 12:44:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

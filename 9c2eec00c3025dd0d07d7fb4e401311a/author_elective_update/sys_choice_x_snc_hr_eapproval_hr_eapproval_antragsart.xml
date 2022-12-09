@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="antragsart" table="x_snc_hr_eapproval_hr_eapproval" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>antragsart</element>
+            <name>x_snc_hr_eapproval_hr_eapproval</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-15 05:34:48</sys_created_on>
+            <sys_id>dd313c84c3025dd0d07d7fb4e401316f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>antragsart</sys_name>
+            <sys_package display_value="HR eApproval" source="x_snc_hr_eapproval">9c2eec00c3025dd0d07d7fb4e401311a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HR eApproval">9c2eec00c3025dd0d07d7fb4e401311a</sys_scope>
+            <sys_update_name>sys_choice_x_snc_hr_eapproval_hr_eapproval_antragsart</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-15 05:34:48</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>antragsart</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Neue Stelle</label>
+            <language>en</language>
+            <name>x_snc_hr_eapproval_hr_eapproval</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-15 05:45:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f5a37884c3825dd0d07d7fb4e40131f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-15 05:45:28</sys_updated_on>
+            <value>neue_stelle</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>antragsart</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Wiederbesetzung</label>
+            <language>en</language>
+            <name>x_snc_hr_eapproval_hr_eapproval</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-15 05:34:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d9313c84c3025dd0d07d7fb4e4013178</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-15 05:34:48</sys_updated_on>
+            <value>wiederbesetzung</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

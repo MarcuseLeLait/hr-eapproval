@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Stellenbesetzung" max_length="40" name="x_snc_hr_eapproval_hr_eapproval" sizeclass="3" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Aktuelle Mitarbeiterkategorie" mandatory="true" max_length="40" name="aktuelle_mitarbeiterkategorie" type="string">
+            <choice>
+                <element inactive_on_update="false" label="K1" sequence="0" value="k1"/>
+                <element inactive_on_update="false" label="K2" sequence="1" value="k2"/>
+                <element inactive_on_update="false" label="K3" sequence="2" value="k3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Anfangsdatum" mandatory="true" max_length="40" name="anfangsdatum" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="neue_stelle" label="Antragsart" mandatory="true" max_length="40" name="antragsart" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Neue Stelle" sequence="0" value="neue_stelle"/>
+                <element inactive_on_update="false" label="Wiederbesetzung" sequence="1" value="wiederbesetzung"/>
+            </choice>
+        </element>
+        <element label="Anzahl Stellen" mandatory="true" max_length="255" name="anzahl_stellen" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Aufgaben" max_length="1024" name="aufgaben" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="ic" label="Fuehrungsebene" mandatory="true" max_length="40" name="fuehrungsebene" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="IC" sequence="0" value="ic"/>
+                <element inactive_on_update="false" label="E1" sequence="1" value="e1"/>
+                <element inactive_on_update="false" label="E2" sequence="2" value="e2"/>
+                <element inactive_on_update="false" label="E3" sequence="3" value="e3"/>
+                <element inactive_on_update="false" label="E4" sequence="4" value="e4"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" label="Geschlecht" max_length="40" name="geschlecht" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="M" sequence="0" value="m"/>
+                <element inactive_on_update="false" label="W" sequence="1" value="w"/>
+                <element inactive_on_update="false" label="D" sequence="2" value="d"/>
+            </choice>
+        </element>
+        <element label="Kandidat" max_length="32" name="kandidat" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Kostenstelle" max_length="40" name="kostenstelle" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Mindestanforderungen" max_length="1024" name="mindestanforderungen" type="string"/>
+        <element label="Nächster Approver" max_length="32" name="nachster_approver" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Stellenbezeichnung" mandatory="true" max_length="100" name="stellenbezeichnung" type="string"/>
+        <element label="Werk 1" mandatory="true" max_length="32" name="werk_1" reference="x_snc_hr_eapproval_werke" type="reference"/>
+        <element label="Werk 2" max_length="32" name="werk_2" reference="x_snc_hr_eapproval_werke" type="reference"/>
+    </element>
+</database>

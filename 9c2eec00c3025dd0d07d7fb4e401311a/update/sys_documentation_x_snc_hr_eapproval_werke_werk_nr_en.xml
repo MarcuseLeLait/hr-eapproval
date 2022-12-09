@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="werk_nr" label="Werk Nr." language="en" table="x_snc_hr_eapproval_werke">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>werk_nr</element>
+            <help/>
+            <hint/>
+            <label>Werk Nr.</label>
+            <language>en</language>
+            <name>x_snc_hr_eapproval_werke</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-15 05:36:17</sys_created_on>
+            <sys_id>57813cc4c3025dd0d07d7fb4e40131d6</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>Werk Nr.</sys_name>
+            <sys_package display_value="HR eApproval" source="x_snc_hr_eapproval">9c2eec00c3025dd0d07d7fb4e401311a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HR eApproval">9c2eec00c3025dd0d07d7fb4e401311a</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_hr_eapproval_werke_werk_nr_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-15 05:56:57</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
